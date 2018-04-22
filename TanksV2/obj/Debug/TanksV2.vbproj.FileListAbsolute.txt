@@ -1,0 +1,11 @@
+E:\Tanks\TanksV2\TanksV2\bin\Debug\TanksV2.exe.config
+E:\Tanks\TanksV2\TanksV2\obj\Debug\TanksV2.vbprojResolveAssemblyReference.cache
+E:\Tanks\TanksV2\TanksV2\obj\Debug\TanksV2.Form1.resources
+E:\Tanks\TanksV2\TanksV2\obj\Debug\TanksV2.Resources.resources
+E:\Tanks\TanksV2\TanksV2\obj\Debug\TanksV2.vbproj.GenerateResource.Cache
+E:\Tanks\TanksV2\TanksV2\bin\Debug\TanksV2.exe
+E:\Tanks\TanksV2\TanksV2\bin\Debug\TanksV2.pdb
+E:\Tanks\TanksV2\TanksV2\bin\Debug\TanksV2.xml
+E:\Tanks\TanksV2\TanksV2\obj\Debug\TanksV2.exe
+E:\Tanks\TanksV2\TanksV2\obj\Debug\TanksV2.xml
+E:\Tanks\TanksV2\TanksV2\obj\Debug\TanksV2.pdb

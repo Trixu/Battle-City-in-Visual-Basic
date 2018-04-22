@@ -1,0 +1,10 @@
+E:\Tanks\TanksV2\TanksV2\bin\Release\TanksV2.exe.config
+E:\Tanks\TanksV2\TanksV2\bin\Release\TanksV2.exe
+E:\Tanks\TanksV2\TanksV2\bin\Release\TanksV2.pdb
+E:\Tanks\TanksV2\TanksV2\bin\Release\TanksV2.xml
+E:\Tanks\TanksV2\TanksV2\obj\Release\TanksV2.Form1.resources
+E:\Tanks\TanksV2\TanksV2\obj\Release\TanksV2.Resources.resources
+E:\Tanks\TanksV2\TanksV2\obj\Release\TanksV2.vbproj.GenerateResource.Cache
+E:\Tanks\TanksV2\TanksV2\obj\Release\TanksV2.exe
+E:\Tanks\TanksV2\TanksV2\obj\Release\TanksV2.xml
+E:\Tanks\TanksV2\TanksV2\obj\Release\TanksV2.pdb
